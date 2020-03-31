@@ -19,11 +19,19 @@ class MyFristScreenController: UIViewController {
     
     @IBAction func GenericButtonTag(_ sender: UIButton) {
         
+        MPMediaLibrary.requestAuthorization {
+            (status) in
+            if status == .authorized {
+                self.playGenre(genre: sender.currentTitle!)
+            }
+        }
     }
     
     @IBAction func StopButtonTapped(_ sender: UIButton) {
+        musicPlayer.stop()
     }
     @IBAction func NextButtonTapped(_ sender: UIButton) {
+        musicPlayer.skipToNextItem()
     }
     
     func playGenre(genre: String)

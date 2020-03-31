@@ -36,7 +36,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="254" height="60"/>
                                         <color key="backgroundColor" red="0.51393118869999999" green="1" blue="0.53583820029999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="40"/>
-                                        <state key="normal" title="Button">
+                                        <state key="normal" title="Comdey">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
@@ -47,7 +47,7 @@
                                         <rect key="frame" x="0.0" y="68" width="254" height="60"/>
                                         <color key="backgroundColor" red="0.37205126230000002" green="0.43872798400000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="40"/>
-                                        <state key="normal" title="Button">
+                                        <state key="normal" title="Rock">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
@@ -58,7 +58,7 @@
                                         <rect key="frame" x="0.0" y="136" width="254" height="60"/>
                                         <color key="backgroundColor" red="1" green="0.41384069010000002" blue="0.9526325887" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="40"/>
-                                        <state key="normal" title="Button">
+                                        <state key="normal" title="Hip-Pop">
                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
