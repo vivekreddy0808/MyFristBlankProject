@@ -13,8 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        print("My Frist Git Project to Send it to Repo")
+        print("Hello, This my demo")
     }
-
 
 }
 
