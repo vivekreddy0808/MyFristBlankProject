@@ -35,7 +35,7 @@ class MyFristScreenController: UIViewController {
         
         query.addFilterPredicate(predicate)
         
-        musicPlayer.setQuery(with: query)
+        musicPlayer.setQueue(with: query)
         musicPlayer.shuffleMode = .songs
         musicPlayer.play()
     }
