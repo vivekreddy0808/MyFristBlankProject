@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D987A9F22433927A001B5513 /* MyFristScreenController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D987A9F12433927A001B5513 /* MyFristScreenController.swift */; };
 		D9ED38DA2433847900DFFF7A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9ED38D92433847900DFFF7A /* AppDelegate.swift */; };
-		D9ED38DC2433847900DFFF7A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9ED38DB2433847900DFFF7A /* ViewController.swift */; };
 		D9ED38DF2433847900DFFF7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9ED38DD2433847900DFFF7A /* Main.storyboard */; };
 		D9ED38E12433847D00DFFF7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9ED38E02433847D00DFFF7A /* Assets.xcassets */; };
 		D9ED38E42433847D00DFFF7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9ED38E22433847D00DFFF7A /* LaunchScreen.storyboard */; };
@@ -34,9 +34,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D987A9F12433927A001B5513 /* MyFristScreenController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFristScreenController.swift; sourceTree = "<group>"; };
 		D9ED38D62433847900DFFF7A /* MyFristGitXcodeProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFristGitXcodeProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9ED38D92433847900DFFF7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D9ED38DB2433847900DFFF7A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D9ED38DE2433847900DFFF7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D9ED38E02433847D00DFFF7A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9ED38E32433847D00DFFF7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -98,7 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				D9ED38D92433847900DFFF7A /* AppDelegate.swift */,
-				D9ED38DB2433847900DFFF7A /* ViewController.swift */,
+				D987A9F12433927A001B5513 /* MyFristScreenController.swift */,
 				D9ED38DD2433847900DFFF7A /* Main.storyboard */,
 				D9ED38E02433847D00DFFF7A /* Assets.xcassets */,
 				D9ED38E22433847D00DFFF7A /* LaunchScreen.storyboard */,
@@ -256,7 +256,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9ED38DC2433847900DFFF7A /* ViewController.swift in Sources */,
+				D987A9F22433927A001B5513 /* MyFristScreenController.swift in Sources */,
 				D9ED38DA2433847900DFFF7A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
